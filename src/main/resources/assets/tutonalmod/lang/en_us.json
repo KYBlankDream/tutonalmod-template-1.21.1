@@ -1,0 +1,9 @@
+{
+  "item.tutonalmod.ice_ether" : "Ice Ether",
+
+  "block.tutonalmod.ice_ether_block": "Ice Ether Block",
+  "block.tutonalmod.ice_ether_ore": "Ice Ether Ore",
+  "block.tutonalmod.raw_ice_ether_block": "Raw Ice Ether Block",
+
+  "itemGroup.tutonal_group" : "Tutonal Group"
+}

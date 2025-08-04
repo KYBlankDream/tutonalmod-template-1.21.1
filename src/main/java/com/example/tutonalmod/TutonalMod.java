@@ -1,5 +1,8 @@
 package com.example.tutonalmod;
 
+import com.example.tutonalmod.block.ModBlocks;
+import com.example.tutonalmod.item.ModItemGroups;
+import com.example.tutonalmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -19,6 +22,11 @@ public class TutonalMod implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Hello Fabric world!");
+		//注册道具
+		ModItems.registerModItems();
+		//注册方块
+		ModBlocks.registerModBlocks();
+		//注册道具组
+		ModItemGroups.registerModItemGroups();
 	}
 }

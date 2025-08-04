@@ -1,0 +1,9 @@
+{
+  "item.tutonalmod.ice_ether" : "冰箱",
+
+  "block.tutonalmod.ice_ether_block": "冰箱方块",
+  "block.tutonalmod.ice_ether_ore": "冰箱矿石",
+  "block.tutonalmod.raw_ice_ether_block": "冰箱体",
+
+  "itemGroup.tutonal_group" : "新建物品栏"
+}

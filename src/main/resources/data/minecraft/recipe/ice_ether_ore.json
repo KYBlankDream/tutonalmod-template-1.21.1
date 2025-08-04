@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "ice_ether",
+  "ingredients": [
+    {
+      "item": "tutonalmod:ice_ether"
+    },
+    {
+      "item": "minecraft:stone"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutonalmod:ice_ether_ore"
+  }
+}

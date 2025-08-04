@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "ice_ether",
+  "ingredients": [
+    {
+      "item": "tutonalmod:ice_ether_block"
+    },
+    {
+      "item": "tutonalmod:ice_ether_block"
+    },
+    {
+      "item": "tutonalmod:ice_ether_block"
+    },
+    {
+      "item": "tutonalmod:ice_ether_block"
+    },
+    {
+      "item": "tutonalmod:ice_ether_block"
+    },
+    {
+      "item": "tutonalmod:ice_ether_block"
+    },
+    {
+      "item": "tutonalmod:ice_ether_block"
+    },
+    {
+      "item": "tutonalmod:ice_ether_block"
+    },
+    {
+      "item": "tutonalmod:ice_ether_block"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutonalmod:raw_ice_ether_block"
+  }
+}
